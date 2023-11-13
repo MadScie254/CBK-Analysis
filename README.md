@@ -67,7 +67,7 @@ At Danco Analytics Financial Services, we are not merely a financial institution
 
 **Our Core Values:**
 
-1. **Integrity:** At the heart of XYZ Financial Services is an unwavering commitment to integrity. We believe that trust is the foundation of every successful financial partnership. We adhere to the highest ethical standards, ensuring transparency and honesty in every interaction. Our clients rely on us not just for financial expertise but for a steadfast commitment to principled conduct.
+1. **Integrity:** At the heart of Danco Analytics Financial Services is an unwavering commitment to integrity. We believe that trust is the foundation of every successful financial partnership. We adhere to the highest ethical standards, ensuring transparency and honesty in every interaction. Our clients rely on us not just for financial expertise but for a steadfast commitment to principled conduct.
 
 2. **Innovation:** In the ever-evolving landscape of global finance, we embrace innovation as a cornerstone of our identity. Danco Analytics Financial Services is not content with the status quo; we are pioneers in developing cutting-edge financial solutions. Our dedicated teams continuously explore new technologies and methodologies to provide our clients with the most advanced and effective financial services available.
 
@@ -77,12 +77,12 @@ At Danco Analytics Financial Services, we are not merely a financial institution
 
 **Our Vision:**
 
-To be the beacon of trust and innovation in the global financial landscape. We envision a future where XYZ Financial Services is the undisputed partner of choice for individuals and businesses seeking not just financial services but a collaborative journey toward financial prosperity.
+To be the beacon of trust and innovation in the global financial landscape. We envision a future where Danco Analytics Financial Services is the undisputed partner of choice for individuals and businesses seeking not just financial services but a collaborative journey toward financial prosperity.
 
 **Our Mission:**
 
-Empower our clients to thrive in the global economy by delivering secure, efficient, and innovative financial services. We don't just facilitate transactions; we strive to exceed expectations, foster growth, and contribute positively to the financial well-being of our clients and the communities we serve.
+Empower our clients to thrive in the global economy by delivering secure, efficient, and innovative financial services. We don't just facilitate transactions; we strive to exceed expectations, foster growth and contribute positively to the financial well-being of our clients and the communities we serve.
 
-At XYZ Financial Services, our belief is that financial empowerment is a journey, and we are honored to be your guide. Together, we are not just navigating the currents of global finance; we are shaping a future that is both financially sound and personally enriching.
+At Danco Analytics Financial Services, our belief is that financial empowerment is a journey, and we are honoured to be your guide. Together, we are not just navigating the currents of global finance; we are shaping a future that is both financially sound and personally enriching.
 
 --- 
