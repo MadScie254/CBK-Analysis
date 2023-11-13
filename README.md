@@ -55,7 +55,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 Feel free to explore, experiment, and contribute! Happy coding!
 
-```
+
 
 ---
 
@@ -81,7 +81,7 @@ To be the preferred partner for individuals and businesses navigating the comple
 
 **Our Mission:**
 
-To empower our clients to thrive in the global economy by delivering secure, efficient, and innovative financial services. We strive to exceed expectations, foster growth, and contribute positively to the financial well-being of our clients and communities.
+To empower our clients to thrive in the global economy by delivering secure, efficient, and innovative financial services. We strive to exceed expectations, foster growth and contribute positively to the financial well-being of our clients and communities.
 
 At XYZ Financial Services, we believe that by embracing our core values and staying true to our mission, we can build a financial future that is both sustainable and prosperous for all.
 
