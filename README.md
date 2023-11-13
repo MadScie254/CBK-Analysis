@@ -31,7 +31,7 @@ Analyze the interbank money market dataset to predict the likelihood of banks ex
 - Classification models.
 
 #### Prerequisites:
-- Python 3.x
+- Python 3. x
 - Install dependencies: `pip install -r requirements.txt`
 
 #### Getting Started:
@@ -59,11 +59,11 @@ Feel free to explore, experiment, and contribute! Happy coding!
 
 ---
 
-**Business Statement: XYZ Financial Services**
+**Business Statement: Danco Analytics for Financial Services**
 
 *Empowering Global Transactions, Securing Financial Futures*
 
-At XYZ Financial Services, we are dedicated to facilitating seamless global transactions while safeguarding the financial futures of our clients. As a leading institution in the financial services sector, we embrace a mission grounded in reliability, innovation, and customer-centricity.
+At Danco Analytics for Financial Services, we are dedicated to facilitating seamless global transactions while safeguarding the financial futures of our clients. As a leading institution in the financial services sector, we embrace a mission grounded in reliability, innovation, and customer-centricity.
 
 **Our Core Values:**
 
@@ -83,6 +83,6 @@ To be the preferred partner for individuals and businesses navigating the comple
 
 To empower our clients to thrive in the global economy by delivering secure, efficient, and innovative financial services. We strive to exceed expectations, foster growth and contribute positively to the financial well-being of our clients and communities.
 
-At XYZ Financial Services, we believe that by embracing our core values and staying true to our mission, we can build a financial future that is both sustainable and prosperous for all.
+At Danco Analytics for Financial Services, we believe that by embracing our core values and staying true to our mission, we can build a financial future that is both sustainable and prosperous for all.
 
 ---
