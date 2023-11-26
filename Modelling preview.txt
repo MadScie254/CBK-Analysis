@@ -1,0 +1,43 @@
+< Modelling>
+
+
+1. **ARIMA (AutoRegressive Integrated Moving Average):**
+   - ARIMA is a widely used time series model that combines autoregression, differencing, and moving averages.
+   - It's effective for capturing linear trends in the data.
+   - ARIMA(p, d, q) parameters include:
+     - p: Order of autoregression.
+     - d: Order of differencing.
+     - q: Order of moving average.
+
+2. **SARIMA (Seasonal ARIMA):**
+   - SARIMA extends ARIMA to account for seasonality in the data.
+   - It includes additional parameters for the seasonal component.
+   - SARIMA(p, d, q)(P, D, Q, s) parameters include:
+     - P, D, Q: Seasonal orders.
+     - s: Seasonal period.
+
+3. **Prophet:**
+   - Developed by Facebook, Prophet is designed for forecasting with daily observations that display patterns on different time scales.
+   - It can handle missing data and outliers well.
+   - It's relatively easy to use and requires minimal parameter tuning.
+
+4. **Exponential Smoothing State Space Models (ETS):**
+   - ETS models decompose time series data into error, trend, and seasonality components.
+   - It's useful when the data exhibits different patterns over time.
+   - ETS models include three main components: Error, Trend, Seasonality.
+
+5. **LSTM (Long Short-Term Memory):**
+   - LSTM is a type of recurrent neural network (RNN) suitable for sequence prediction problems.
+   - It's effective for capturing complex patterns and dependencies in time series data.
+   - Requires more data and computational resources compared to traditional models.
+
+**Steps for Implementation:**
+
+- For ARIMA and SARIMA, you can use libraries like `statsmodels` in Python. Train the model and tune the hyperparameters based on the performance on your training data.
+- For Prophet, you can use the `prophet` library in Python. It has a simple API and handles some of the complexities automatically.
+- For LSTM or other neural network-based models, you might want to use a deep learning library like TensorFlow or PyTorch. These models require more data and computational resources, so make sure you have enough historical exchange rate data.
+
+Remember to split your data into training and testing sets and evaluate the model's performance on the testing set. If you encounter issues or have specific questions about implementing a particular model, feel free to ask!
+
+## NB: 
+I tried LSTM but it consumed alot of my pc memory... a bit of low end pc issues
